@@ -158,3 +158,6 @@ class Program
 ### Description of Program class
 
 Here we connect the path to desktop directoy for all users. Then inwoke the Scan method with path argument. The Scan method delete all subfiles and subfolders. From the program we delete folders and files on current desktop directory.
+
+### Test and Result
+
