@@ -161,3 +161,6 @@ Here we connect the path to desktop directoy for all users. Then inwoke the Scan
 
 ### Test and Result
 
+![gif source](https://github.com/shtigran/DesktopCleaner/blob/master/GIF.gif)
+
+
