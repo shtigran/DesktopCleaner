@@ -2,6 +2,10 @@
 # C#6.0  .NET FRAMEWORK 4.6
 
 ----
+### Test and Result
+
+![gif source](https://github.com/shtigran/DesktopCleaner/blob/master/GIF.gif)
+----
 
 This program allow You delete temprory folders and files (and all subfolders and subfiles) on the desktop. In principle it is possible to make this program for any folder or directory.
 
@@ -158,9 +162,5 @@ class Program
 ### Description of Program class
 
 Here we connect the path to desktop directoy for all users. Then inwoke the Scan method with path argument. The Scan method delete all subfiles and subfolders. From the program we delete folders and files on current desktop directory.
-
-### Test and Result
-
-![gif source](https://github.com/shtigran/DesktopCleaner/blob/master/GIF.gif)
 
 
