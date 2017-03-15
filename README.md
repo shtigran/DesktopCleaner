@@ -10,7 +10,6 @@
 This program allow You delete temprory folders and files (and all subfolders and subfiles) on the desktop. In principle it is possible to make this program for any folder or directory.
 
 ----
-
 ### Purpose
 Suppose You need every evening delete all unnecessary files from Your desktop created by other peoples. Yoo need only run this program.
 
@@ -34,7 +33,6 @@ namespace DesktopCleaner
                 {
                     if (dd == listOfDir.Last())
                     {
-
                         pathFile = path + "\\" + dd;
                         DirectoryInfo director = new DirectoryInfo(pathFile);
                         DirectoryInfo[] array = director.GetDirectories();
