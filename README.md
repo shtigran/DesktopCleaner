@@ -123,7 +123,7 @@ Here we check all folders and subfolders to fine temprorary files or folders and
 ### Program class implementation 
 ```c#
 class Program
-    {
+{
         static void Main(string[] args)
         {
             Console.WriteLine("\n\t\t\tCleaner Master\n");
@@ -154,11 +154,11 @@ class Program
             }
             Console.ReadKey();
         }
-    }
+}
 ```
 
 ### Description of Program class
 
-Here we connect the path to desktop directoy for all users. Then inwoke the Scan method with path argument. The Scan method delete all subfiles and subfolders. From the program we delete folders and files on current desktop directory.
+Here we connect the path to the desktop directoy for all users. Then we inwoke the Scan method with path argument. The Scan method delete all subfiles and subfolders. From the program we delete folders and files on current desktop directory.
 
 
