@@ -7,7 +7,7 @@
 ![gif source](https://github.com/shtigran/DesktopCleaner/blob/master/GIF.gif)
 ----
 
-This program allow You delete temprory folders and files (and all subfolders and subfiles) on the desktop. In principle it is possible to make this program for any folder or directory.
+This program allow You delete temprory folders and files (all subfolders and subfiles) on the Desktop. In principle it is possible to make this program for any other folder or directory.
 
 ----
 ### Purpose
